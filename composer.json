@@ -1,15 +1,5 @@
 {
     "name": "mhmli/mhm-flickrsettings",
-    "description": "This WordPress provides backend settings fields to store Flickr configuration information.",
-    "require": {
-        "php": ">=5.3.0",
-        "another-vendor/package": "1.*"
-    }
-}
-
-
-{
-    "name": "mhmli/mhm-flickrsettings",
     "type": "library",
     "description": "This WordPress provides backend settings fields to store Flickr configuration information.",
     "keywords": ["wordpress","plugin","flickr","settings"],
