@@ -11,7 +11,7 @@ Author URI: http://permanenttourist.ch/
 class MHMFlickrSettings {
 
 	public $key     = '';
-	public $version = '1.0.3';
+	public $version = '1.1.0';
 
 	public function __construct(){
 		$this->key = basename(__DIR__);
