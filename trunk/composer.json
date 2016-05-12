@@ -2,14 +2,14 @@
     "name": "mhmli/mhm-flickrsettings",
     "type": "library",
     "description": "This WordPress provides backend settings fields to store Flickr configuration information.",
-    "keywords": ["wordpress","plugin","flickr","settings"],
+    "keywords": ["wordpress","plugin","flickr","settings","options"],
     "homepage": "https://github.com/mhmli/mhm-flickrsettings",
     "license": "GPL v2",
     "authors": [
         {
             "name": "Mark Howells-Mead",
             "email": "mark@permanenttourist.ch",
-            "homepage": "https://permanenttourist.ch/",
+            "homepage": "https://www.permanenttourist.ch/",
             "role": "Developer"
         }
     ],
