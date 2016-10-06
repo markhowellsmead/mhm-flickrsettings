@@ -1,7 +1,7 @@
 #Flickr settings plugin
 
 ##Description
-Provides WordPress backend settings fields to store Flickr configuration information.
+Provides WordPress backend settings fields to store Flickr configuration information. This is a mirror of the official version of the plugin at the WordPress Plugin Repository (https://wordpress.org/plugins/mhm-flickrsettings/). Please see the trunk/README.txt for full details.
 
 ##Usage
 Install and activate the plugin as usual. The activated plugin adds three fields to the Media settings page in the admin area: key, secret and user ID. The values saved to these fields can then be used via the WordPress `get_option()` function in a theme or unrelated plugin.

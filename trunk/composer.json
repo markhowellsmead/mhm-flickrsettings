@@ -4,7 +4,7 @@
     "description": "This WordPress provides backend settings fields to store Flickr configuration information.",
     "keywords": ["wordpress","plugin","flickr","settings","options"],
     "homepage": "https://github.com/mhmli/mhm-flickrsettings",
-    "license": "GPL v2",
+    "license": "GPL v3",
     "authors": [
         {
             "name": "Mark Howells-Mead",
