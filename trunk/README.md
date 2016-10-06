@@ -4,7 +4,7 @@ Donate link: https://www.paypal.me/mhmli
 Tags: flickr, settings, options, get_option
 Requires at least: 4.0
 Tested up to: 4.6.1
-Stable tag: 1.2.0
+Stable tag: 1.3.0
 License: GPL v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -21,6 +21,9 @@ Install and activate the plugin as usual. The activated plugin adds three fields
 3. Add your Flickr user data using the fields available under Settings » Media.
 
 == Changelog ==
+
+= 1.3.0 =
+* Add code which allows the plugin to be translated.
 
 = 1.2.0 =
 * Change functionality to store all settings from this plugin in a single `wp_option` entry in the database.
