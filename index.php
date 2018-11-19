@@ -3,7 +3,7 @@
 Plugin Name: Flickr settings plugin
 Plugin URI: https://wordpress.org/plugins/mhm-flickrsettings/
 Description: Provides backend settings fields to store Flickr configuration information.
-Version: 1.3.1
+Version: 1.3.2
 Author: Mark Howells-Mead
 Author URI: https://permanenttourist.ch/
 Text Domain: mhm-flickrsettings
@@ -15,7 +15,7 @@ namespace MHM\FlickrSettings;
 class Index
 {
 	public $key = '';
-	public $version = '1.3.1';
+	public $version = '1.3.2';
 
 	public function __construct()
 	{
